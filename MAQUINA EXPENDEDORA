@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <title>BEAUTY VENUS</title>
+    <h1 style="text-align: center;">SALÓN DE BELLEZA BEAUTY VENUS</h1>
+    <img src="file:///C:/Users/Usuario/Downloads/unnamed.jpg" width="100" >
+    <p>Es un perfil personal de Cindy, con 19 años, aprendiendo HTML y CSS.</p>
+    <button>Creo que aqui se ponía los botones, click aquí para continar o wtf</button>
+    
+    </head>
+    <body style="background-color: rgb(235, 205, 150);">
+        
+    </body>
+    
+</html>
